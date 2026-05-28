@@ -44,7 +44,7 @@ export default function TabLayout() {
       screenOptions={{
         headerShown: false,
         tabBarStyle: {
-          backgroundColor: composants.tabbar.fond, // TOUJOURS opaque, jamais transparent
+          backgroundColor: composants.tabbar.fond,
           borderTopColor: couleurs.bordure,
           borderTopWidth: 0.5,
           height: composants.tabbar.hauteur,
